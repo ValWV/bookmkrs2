@@ -1,0 +1,11 @@
+@import './lightgallery.scss';
+
+@import 'tailwindcss';
+@import 'tailwindcss/tailwind.css';
+
+
+body {
+background: linear-gradient(107.18deg, rgba(255, 255, 255, 0.7) 1.84%, rgba(255, 255, 255, 0.4) 100%);
+}
+
+codex-editor__redactor { padding-bottom: 0 !important;}
